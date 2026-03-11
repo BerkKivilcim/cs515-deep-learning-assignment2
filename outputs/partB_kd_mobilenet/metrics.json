@@ -1,0 +1,174 @@
+{
+  "best_test_accuracy": 0.6669,
+  "history": [
+    {
+      "epoch": 1,
+      "train_loss": 1.877528918762207,
+      "train_acc": 0.24052,
+      "test_loss": 1.7677634395599364,
+      "test_acc": 0.3528,
+      "lr": 0.01
+    },
+    {
+      "epoch": 2,
+      "train_loss": 1.587896674041748,
+      "train_acc": 0.36052,
+      "test_loss": 1.6818438482284546,
+      "test_acc": 0.4071,
+      "lr": 0.01
+    },
+    {
+      "epoch": 3,
+      "train_loss": 1.4577448656463623,
+      "train_acc": 0.41236,
+      "test_loss": 1.5050244384765625,
+      "test_acc": 0.4595,
+      "lr": 0.01
+    },
+    {
+      "epoch": 4,
+      "train_loss": 1.3597069477081298,
+      "train_acc": 0.4574,
+      "test_loss": 1.4018117582321168,
+      "test_acc": 0.5,
+      "lr": 0.01
+    },
+    {
+      "epoch": 5,
+      "train_loss": 1.2904922289276124,
+      "train_acc": 0.48676,
+      "test_loss": 1.34854452419281,
+      "test_acc": 0.5219,
+      "lr": 0.01
+    },
+    {
+      "epoch": 6,
+      "train_loss": 1.2294188526535035,
+      "train_acc": 0.51128,
+      "test_loss": 1.3230779562950135,
+      "test_acc": 0.5303,
+      "lr": 0.01
+    },
+    {
+      "epoch": 7,
+      "train_loss": 1.1862759898757935,
+      "train_acc": 0.53184,
+      "test_loss": 1.2443685378074647,
+      "test_acc": 0.5582,
+      "lr": 0.01
+    },
+    {
+      "epoch": 8,
+      "train_loss": 1.135906511001587,
+      "train_acc": 0.5483,
+      "test_loss": 1.1824411315917969,
+      "test_acc": 0.5795,
+      "lr": 0.01
+    },
+    {
+      "epoch": 9,
+      "train_loss": 1.0833092193603515,
+      "train_acc": 0.5699,
+      "test_loss": 1.1776556488990784,
+      "test_acc": 0.5902,
+      "lr": 0.01
+    },
+    {
+      "epoch": 10,
+      "train_loss": 1.0386923230743408,
+      "train_acc": 0.58908,
+      "test_loss": 1.1036269263267517,
+      "test_acc": 0.6176,
+      "lr": 0.001
+    },
+    {
+      "epoch": 11,
+      "train_loss": 0.9579575993156433,
+      "train_acc": 0.62002,
+      "test_loss": 1.020032793235779,
+      "test_acc": 0.6453,
+      "lr": 0.001
+    },
+    {
+      "epoch": 12,
+      "train_loss": 0.9372842766189575,
+      "train_acc": 0.63026,
+      "test_loss": 1.0073105266571045,
+      "test_acc": 0.6523,
+      "lr": 0.001
+    },
+    {
+      "epoch": 13,
+      "train_loss": 0.9196680702209473,
+      "train_acc": 0.63684,
+      "test_loss": 0.9977426809310913,
+      "test_acc": 0.6506,
+      "lr": 0.001
+    },
+    {
+      "epoch": 14,
+      "train_loss": 0.9137492002868652,
+      "train_acc": 0.63772,
+      "test_loss": 0.9866770389556885,
+      "test_acc": 0.6588,
+      "lr": 0.001
+    },
+    {
+      "epoch": 15,
+      "train_loss": 0.904916919593811,
+      "train_acc": 0.6412,
+      "test_loss": 0.983752272605896,
+      "test_acc": 0.6567,
+      "lr": 0.001
+    },
+    {
+      "epoch": 16,
+      "train_loss": 0.8998336173629761,
+      "train_acc": 0.64058,
+      "test_loss": 0.9830017822265625,
+      "test_acc": 0.6579,
+      "lr": 0.001
+    },
+    {
+      "epoch": 17,
+      "train_loss": 0.8971056857299805,
+      "train_acc": 0.64398,
+      "test_loss": 0.9723518753051758,
+      "test_acc": 0.6617,
+      "lr": 0.001
+    },
+    {
+      "epoch": 18,
+      "train_loss": 0.8883675038719178,
+      "train_acc": 0.64684,
+      "test_loss": 0.970381884765625,
+      "test_acc": 0.665,
+      "lr": 0.001
+    },
+    {
+      "epoch": 19,
+      "train_loss": 0.8840295664215088,
+      "train_acc": 0.6501,
+      "test_loss": 0.9643184047698975,
+      "test_acc": 0.6643,
+      "lr": 0.001
+    },
+    {
+      "epoch": 20,
+      "train_loss": 0.8747654515457153,
+      "train_acc": 0.65354,
+      "test_loss": 0.9595586085319519,
+      "test_acc": 0.6669,
+      "lr": 0.0001
+    }
+  ],
+  "student_profile": {
+    "macs": "ptflops_not_installed",
+    "params": "ptflops_not_installed"
+  },
+  "teacher_profile": {
+    "macs": "ptflops_not_installed",
+    "params": "ptflops_not_installed"
+  },
+  "kd_variant": "custom_true_class"
+}
